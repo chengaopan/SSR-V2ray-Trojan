@@ -1,6 +1,6 @@
 # 2026 翻墙机场推荐（持续更新）
 
-最后更新时间：2026-08-09
+最后更新时间：2026-08-24
 
 本文持续整理目前仍值得推荐的翻墙机场，包括 IEPL 专线机场、AnyTLS 机场、中转机场、Shadowsocks 机场等。
 
@@ -153,7 +153,7 @@ TG频道：无
 #### 官网：
 [悠兔机场官网地址1](https://jctj.youtunice.com?path=register&code=3CxiqyOc)     
 
-[悠兔机场官网地址2](https://jctj.youtu0.com?path=register&code=3CxiqyOc)     
+[悠兔机场官网地址2](https://jctj.youtu1.com?path=register&code=3CxiqyOc)     
 
 [悠兔机场官网地址3](https://111.youtu6.shop/register?aff=3CxiqyOc) 
 
